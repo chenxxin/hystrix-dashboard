@@ -1,0 +1,4 @@
+
+http://127.0.0.1:9000/actuator/hystrix.stream
+
+http://127.0.0.1:8989/turbine.stream
